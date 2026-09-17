@@ -1,0 +1,36 @@
+# Environment & Security
+.env
+.env.backup
+.env.production
+auth.json
+Homestead.json
+Homestead.yaml
+/storage/*.key
+/storage/pail
+*.keystore
+*.jks
+
+# Dependencies
+/vendor/
+/node_modules/
+npm-debug.log
+
+# Laravel Builds & Cache
+.phpunit.result.cache
+/.phpunit.cache
+.phpactor.json
+/public/build
+/public/hot
+/public/storage
+
+# Logs & System
+*.log
+.DS_Store
+Thumbs.db
+
+# IDEs & Editors
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
