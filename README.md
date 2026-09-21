@@ -277,7 +277,7 @@ composer dev
 
 | Repository | Description |
 |---|---|
-| [**sms_gateway_app**](https://github.com/alzoodiali/sms_gateway_app) | تطبيق Flutter/Android — يعمل كبوابة SMS حقيقية تُرسل الرسائل عبر شريحة SIM |
+| [**Flutter-SMS-Gateway**](https://github.com/alzoodiali/Flutter-SMS-Gateway) | تطبيق Flutter/Android — يعمل كبوابة SMS حقيقية تُرسل الرسائل عبر شريحة SIM |
 
 ---
 
